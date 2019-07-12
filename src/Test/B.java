@@ -6,5 +6,6 @@ public static void main(String[] args)
 {
 	A.empid();
 	A.empname();
+	
 }
 }
